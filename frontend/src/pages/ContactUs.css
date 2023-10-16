@@ -1,0 +1,13 @@
+.contact{
+    text-align: center;
+    margin-top: 50px;
+    color: 'ms-5 me-5 mr-5 mt-3';    
+}
+.column-4{
+    /* background-color: brown; */
+    /* display: flex; */
+    float: left;
+    width: 500px;
+    height: 200px;
+    margin-top: 100px;
+}
